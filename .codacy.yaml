@@ -1,0 +1,10 @@
+exclude_paths:
+  - "node_modules/"
+  - "dist/"
+  - "tests/"
+
+engines:
+  eslint:
+    enabled: true
+  sonarqube:
+    enabled: false
